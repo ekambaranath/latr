@@ -69,9 +69,6 @@ gdown 192-AETChd2FoNfut0hkLRwcLMfd5-uIj
 
 MIT
 
-## Maintainers
-
-- [uakarsh](https://github.com/uakarsh)
 
 ## Contribute
 
